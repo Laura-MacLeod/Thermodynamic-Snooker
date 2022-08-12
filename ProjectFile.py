@@ -5,6 +5,9 @@ Created on Mon Nov  1 14:12:08 2021
 
 @author: laura
 """
+
+# Code written by Laura MacLeod. Project concept provided by Imperial College London. Animation and graphics code examples provided by Imperial College.
+
 # 0
 # Importing modules
 
