@@ -27,7 +27,5 @@ In the project file:
 - Run cell 2 to see simulation for multiple balls
 - Run cell 3 to see simulation for N balls initialised systematically
 - Run cell 4 to get data for the multiple ball collisions
-
--Run cells 5, 7, 9, 11, 12, 13, 15 for graphs
-
+- Run cells 5, 7, 9, 11, 12, 13, 15 for graphs
 - Avoid cells 6, 8, 10, 14 because they take a long time to run (did not have sufficient time to create CSV file before project deadline)
