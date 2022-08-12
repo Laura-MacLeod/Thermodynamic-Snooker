@@ -6,6 +6,8 @@ Created on Mon Nov  1 14:11:57 2021
 @author: laura
 """
 
+# Code written by Laura MacLeod. Project concept provided by Imperial College London. Animation and graphics code examples provided by Imperial College.
+
 import numpy as np
 import pylab as pl
 import warnings
