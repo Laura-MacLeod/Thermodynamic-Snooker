@@ -1,6 +1,6 @@
 # Thermodynamic-Snooker
 
-2nd year computing project, with limited guidance
+2nd year computing project, with limited guidance. Basic code examples were provided for animation and patch graphics.
 
 
 Introduction (provided by Imperial College London):
